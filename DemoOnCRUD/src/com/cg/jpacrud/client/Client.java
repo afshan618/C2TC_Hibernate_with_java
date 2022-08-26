@@ -1,7 +1,6 @@
 package com.cg.jpacrud.client;
 
 import com.cg.jpacrud.entities.Student;
-import com.cg.jpacrud.service.StudentService;
 import com.cg.jpacrud.service.StudentServiceImpl;
 
 
